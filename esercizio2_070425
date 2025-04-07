@@ -19,3 +19,4 @@ elif scelta == 3:
     lista1[lettera3] = str(lettera4)
     print(lista1)
 else:
+    print("seleziona 1 elimina, 2 aggiungi o 3 rimuovi")
