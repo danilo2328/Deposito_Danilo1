@@ -1,0 +1,7 @@
+Ciao file testo esempio
+
+riga 3
+
+riga 5
+
+donde esta la biblioteca
