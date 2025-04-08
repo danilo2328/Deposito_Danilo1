@@ -18,8 +18,8 @@ print("il numero più grande tra quelli inseriti è ", max1)
 #individuare il max con ciclo for
 max2 = 0
 for i in lista:
-    if x > max2:
-        max2 = x
+    if i > max2:
+        max2 = i
 print("il massimo è ", max2)
 
 #conta i valori in lista con ciclo while
